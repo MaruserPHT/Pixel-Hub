@@ -1,5 +1,5 @@
 ---
-description: A peek into the future of PHT
+description: A look into the future of PHT
 ---
 
 # Roadmap
