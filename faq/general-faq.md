@@ -1,5 +1,25 @@
 # General FAQ
 
-{% hint style="info" %}
-**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
-{% endhint %}
+<details>
+
+<summary>How do I play the games?</summary>
+
+Please visit [https://pixelhub.finance/](https://pixelhub.finance/) and enjoy our games!
+
+</details>
+
+<details>
+
+<summary>Have a suggestion for a new game or an improvement?</summary>
+
+Please fill out our [`Feedback Form`](https://forms.gle/MF22wcG7Sf9yv5nZ6)``
+
+</details>
+
+<details>
+
+<summary>FAQ #3</summary>
+
+
+
+</details>
