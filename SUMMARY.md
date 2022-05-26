@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Home](README.md)
+
+## Project Introduction
+
+* [About Pixel Hub](project-introduction/about-pixel-hub.md)
+* [Pixel Gub Games List](project-introduction/pixel-gub-games-list.md)
+
+## Pixel Hub Token (PHT)
+
+* [PHT Token Utility](pixel-hub-token-pht/pht-token-utility.md)
+* [Tokenomics](pixel-hub-token-pht/tokenomics.md)
+
+## FAQ
+
+* [General FAQ](faq/general-faq.md)
