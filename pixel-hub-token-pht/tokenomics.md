@@ -6,9 +6,7 @@ description: PHT Token Economics
 
 #### All payouts from in-game rewards are paid out in BNB from the rewards wallet, reflections are paid out in the native PHT tokens.
 
-![](../.gitbook/assets/pht\_token\_distribution.png)
-
-
+![](<../.gitbook/assets/pht\_token\_distribution (1).png>)
 
 ### <mark style="color:purple;">Fees and Rewards</mark>
 
