@@ -15,7 +15,7 @@ description: PHT Token Economics
 | In-Game Rewards: 3%    | In-Game Rewards: 3%    |
 | Reflections: 3%        | Reflections: 3%        |
 | Dev Wallet: 2%         | Dev Wallet: 2%         |
-| Liquidity Pool Fee: 1$ | Liquidity Pool Fee: 2% |
+| Liquidity Pool Fee: 1% | Liquidity Pool Fee: 1% |
 
 #### Total Supply: 1,000,000,000 PHT
 
