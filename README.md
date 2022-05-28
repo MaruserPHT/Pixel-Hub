@@ -11,3 +11,9 @@ coverY: 0
 ![](.gitbook/assets/game\_splash.jpg)
 
 > The [Pixel Hub](https://pixelhub.finance/) ecosystem is designed to provide long term sustainability by rewarding holders of our PHT Token with reflections and rewarding players with BNB by having fun playing the games while allowing you to challenge yourself by saving your own high scores and even sharing them on the global leader board.
+
+### Follow Us
+
+Telegram:  [https://t.me/pixelhubcommunity](https://t.me/pixelhubcommunity)
+
+Discord:    coming soon
