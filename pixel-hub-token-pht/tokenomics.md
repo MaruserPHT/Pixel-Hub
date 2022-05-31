@@ -6,6 +6,8 @@ description: PHT Token Economics
 
 #### All payouts from in-game rewards are paid out in BNB from the rewards wallet, reflections are paid out in the native PHT tokens.
 
+#### **Token Address**<mark style="background-color:yellow;">**:**</mark> [<mark style="background-color:yellow;">**0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3**</mark>](https://bscscan.com/address/0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3)<mark style="background-color:yellow;">****</mark>
+
 ![](<../.gitbook/assets/pht\_token\_distribution (1).png>)
 
 ### <mark style="color:purple;">Fees and Rewards</mark>
@@ -21,7 +23,7 @@ description: PHT Token Economics
 
 **Circulating Supply: 550,000,000 PHT**
 
-#### <mark style="background-color:yellow;">Token Address:</mark> [<mark style="background-color:yellow;">0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3</mark>](https://bscscan.com/address/0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3)<mark style="background-color:yellow;"></mark>
+#### ****
 
 {% tabs %}
 {% tab title="Pre-Sale" %}
@@ -53,8 +55,6 @@ TBD
 
 **Total Hard Cap:** $ TBD
 
-<mark style="color:red;">**Team:**</mark> TBD
-
 
 
 ![](../.gitbook/assets/pht\_funds\_distribution.png)
@@ -64,3 +64,5 @@ TBD
 ### Tournaments
 
 100% of PHT entry fees for tournaments will get sent to the burn address
+
+More info coming soon...
