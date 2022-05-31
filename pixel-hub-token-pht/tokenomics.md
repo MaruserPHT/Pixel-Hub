@@ -21,39 +21,39 @@ description: PHT Token Economics
 
 **Circulating Supply: 550,000,000 PHT**
 
-#### Token Address: 0x
+#### <mark style="background-color:yellow;">Token Address:</mark> [<mark style="background-color:yellow;">0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3</mark>](https://bscscan.com/address/0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3)<mark style="background-color:yellow;"></mark>
 
 {% tabs %}
 {% tab title="Pre-Sale" %}
-**Tokens for sale:** edit me
+<mark style="background-color:yellow;">**Tokens for sale:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">TBD</mark>
 
-**Sale price:** $0.0
+<mark style="background-color:yellow;">**Sale price:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">$ TBD</mark>
 
-**Total received:** ---- / $0M
+<mark style="background-color:yellow;">**Total received:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">---- / $TBD</mark>
 
-**Distribution:** -
+<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">- TBD</mark>
 {% endtab %}
 
 {% tab title="Public Sale" %}
-**Tokens for sale:** edit me
+<mark style="background-color:yellow;">**Tokens for sale:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">TBD</mark>
 
-**Sale price:** $0.0
+<mark style="background-color:yellow;">**Sale price:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">$TBD</mark>
 
-**Total received:** ---- / $0M
+<mark style="background-color:yellow;">**Total received:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">---- / $TBD</mark>
 
-**Distribution:** -
+<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">-</mark>
 {% endtab %}
 
 {% tab title="Liquidity" %}
-Liquidity mechanics here
+TBD
 {% endtab %}
 {% endtabs %}
 
-**Total Soft Cap:** $
+**Total Soft Cap:** $ TBD
 
-**Total Hard Cap:** $
+**Total Hard Cap:** $ TBD
 
-<mark style="color:red;">**Team:**</mark> locked and distribution period?
+<mark style="color:red;">**Team:**</mark> TBD
 
 
 
