@@ -14,6 +14,8 @@ coverY: 0
 
 ### Follow Us
 
-Telegram:  [https://t.me/pixelhubcommunity](https://t.me/pixelhubcommunity)
+Telegram Community:  [https://t.me/pixelhubcommunity](https://t.me/pixelhubcommunity)
+
+Telegram Sale: [https://t.me/phtprivatesale](https://t.me/phtprivatesale)
 
 Discord:    coming soon
