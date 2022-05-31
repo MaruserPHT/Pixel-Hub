@@ -19,9 +19,9 @@ description: PHT Token Economics
 | Dev Fund: 2%           | Dev Fund: 2%           |
 | Liquidity Pool Fee: 1% | Liquidity Pool Fee: 1% |
 
-#### Total Supply: 1,000,000,000 PHT
+#### Total Supply: 1,000,000,000,000 PHT
 
-**Circulating Supply: 550,000,000 PHT**
+**Circulating Supply: 550,000,000,000 PHT**
 
 #### ****
 
