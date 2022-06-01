@@ -1,8 +1,8 @@
 ---
-description: 15 Games to Play | All the Features of an Arcade Game
+description: 20 Games to Play | All the Features of an Arcade Game
 ---
 
-# Pixel Gub Games List
+# Pixel Hub Games List
 
 {% hint style="info" %}
 **Game Controls**
