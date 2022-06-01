@@ -12,6 +12,16 @@ description: PHT Token Economics
 
 **Circulating Supply: 550,000,000,000 PHT**
 
+****
+
+### **Token Sale Dates**
+
+* **Private Sale -** June 1st, 2022 -June 15th, 2022
+* **Pre-Sale -** June 15th, 2022 - July 15th, 2022
+* **Public Sale -** July 15th, 2022 - April 15th, 2022
+
+
+
 ![](<../.gitbook/assets/pht\_token\_distribution (1).png>)
 
 ### <mark style="color:purple;">Fees and Rewards</mark>
@@ -66,12 +76,6 @@ description: PHT Token Economics
 **Total Hard Cap:** $2M
 
 
-
-### **Token Sale Dates**
-
-* **Private Sale -** June 1st, 2022 -June 15th, 2022
-* **Pre-Sale -** June 15th, 2022 - July 15th, 2022
-* **Public Sale -** July 15th, 2022 - April 15th, 2022
 
 
 
