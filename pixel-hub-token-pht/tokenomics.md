@@ -61,9 +61,19 @@ description: PHT Token Economics
 {% endtab %}
 {% endtabs %}
 
+****
+
 **Total Soft Cap:** $300K
 
 **Total Hard Cap:** $2M
+
+
+
+### **Token Sale Dates**
+
+* **Private Sale - 6/01/2022 - 6/15/2022**
+* **Pre-Sale - 6/15/2022 - 7/15/2022**
+* **Public Sale - 7/15/2022 - 8/15/2022**
 
 
 
