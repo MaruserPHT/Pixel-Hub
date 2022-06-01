@@ -5,7 +5,7 @@
 ## Project Introduction
 
 * [About Pixel Hub](project-introduction/about-pixel-hub.md)
-* [Pixel Gub Games List](project-introduction/pixel-gub-games-list.md)
+* [Pixel Hub Games List](project-introduction/pixel-gub-games-list.md)
 * [Roadmap](project-introduction/roadmap.md)
 
 ## Pixel Hub Token (PHT)
