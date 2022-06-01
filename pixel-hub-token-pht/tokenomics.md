@@ -67,7 +67,7 @@ description: PHT Token Economics
 {% endtab %}
 
 {% tab title="Liquidity" %}
-**26% + 1% of the total supply will be locked for 3 years minimum**
+**26% + 1% of the total supply will be locked for 10 years**
 {% endtab %}
 {% endtabs %}
 
