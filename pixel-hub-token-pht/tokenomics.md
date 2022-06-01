@@ -26,34 +26,44 @@ description: PHT Token Economics
 #### ****
 
 {% tabs %}
+{% tab title="Private Sale" %}
+**Tokens for sale:** 250B
+
+**Token Price:** 0.0000015
+
+**Total Received:** - / $375k
+
+**Distribution:** TBD
+{% endtab %}
+
 {% tab title="Pre-Sale" %}
-<mark style="background-color:yellow;">**Tokens for sale:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">TBD</mark>
+<mark style="background-color:yellow;">**Tokens for sale:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">100B</mark>
 
-<mark style="background-color:yellow;">**Sale price:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">$ TBD</mark>
+<mark style="background-color:yellow;">**Token Price:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">$0.000003</mark>
 
-<mark style="background-color:yellow;">**Total received:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">---- / $TBD</mark>
+<mark style="background-color:yellow;">**Total Received:**</mark>  <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">- / $300K</mark>
 
-<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">- TBD</mark>
+<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">- / 2M</mark>
 {% endtab %}
 
 {% tab title="Public Sale" %}
-<mark style="background-color:yellow;">**Tokens for sale:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">TBD</mark>
+<mark style="background-color:yellow;">**Tokens for sale:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">200B</mark>
 
-<mark style="background-color:yellow;">**Sale price:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">$TBD</mark>
+<mark style="background-color:yellow;">**Token Price:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">$0.00007</mark>
 
-<mark style="background-color:yellow;">**Total received:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">---- / $TBD</mark>
+<mark style="background-color:yellow;">**Total Received:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">- / $1.325M</mark>
 
-<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">-</mark>
+<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">TBD</mark>
 {% endtab %}
 
 {% tab title="Liquidity" %}
-TBD
+260B PHT
 {% endtab %}
 {% endtabs %}
 
-**Total Soft Cap:** $ TBD
+**Total Soft Cap:** $300K
 
-**Total Hard Cap:** $ TBD
+**Total Hard Cap:** $2M
 
 
 
