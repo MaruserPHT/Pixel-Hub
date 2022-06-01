@@ -83,7 +83,7 @@ description: PHT Token Economics
 
 ### In-Game Rewards
 
-Payouts from in-game rewards are distributed once per week paid in BNB on the BNB Chain (Binance Smart Chain) issued from the in-game rewards pool.
+Payouts from in-game rewards are distributed once per week and are paid in BNB on the BNB Smart Chain "BEP-20" (formerly Binance Smart Chain) issued from the in-game rewards pool.
 
 ****
 
