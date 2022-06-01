@@ -33,7 +33,7 @@ description: PHT Token Economics
 
 **Total Received:** - / $375k
 
-**Distribution:** TBD
+**Distribution:** End of Sale
 {% endtab %}
 
 {% tab title="Pre-Sale" %}
@@ -43,7 +43,7 @@ description: PHT Token Economics
 
 <mark style="background-color:yellow;">**Total Received:**</mark>  <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">- / $300K</mark>
 
-<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">- / 2M</mark>
+<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">End of Sale</mark>
 {% endtab %}
 
 {% tab title="Public Sale" %}
@@ -53,7 +53,7 @@ description: PHT Token Economics
 
 <mark style="background-color:yellow;">**Total Received:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">- / $1.325M</mark>
 
-<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">TBD</mark>
+<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">End of Sale</mark>
 {% endtab %}
 
 {% tab title="Liquidity" %}
@@ -71,9 +71,9 @@ description: PHT Token Economics
 
 ### **Token Sale Dates**
 
-* **Private Sale - 6/01/2022 - 6/15/2022**
-* **Pre-Sale - 6/15/2022 - 7/15/2022**
-* **Public Sale - 7/15/2022 - 8/15/2022**
+* **Private Sale -** 6/01/2022 - 6/15/2022
+* **Pre-Sale -** 6/15/2022 - 7/15/2022
+* **Public Sale -** 7/15/2022 - 8/15/2022
 
 
 
