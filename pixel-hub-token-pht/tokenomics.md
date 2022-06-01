@@ -81,6 +81,10 @@ description: PHT Token Economics
 
 ![](../.gitbook/assets/pht\_funds\_distribution.png)
 
+### In-Game Rewards
+
+Payouts from in-game rewards are distributed once per week paid in BNB on the BNB Chain (Binance Smart Chain) issued from the in-game rewards pool.
+
 ****
 
 ### Tournaments
