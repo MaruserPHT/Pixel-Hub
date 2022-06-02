@@ -78,5 +78,3 @@ Left mouse click or screen tap to time your shots and hit the target.  Be carefu
 ### Bouncy Wall
 
 Challenge your brain and reflexes in this super fun game.  Screen tap or left mouse click as many times as necessary to make the block jump to the required height.  The object is to hit the part of the wall that is the same color as the block.  Good luck!
-
-<table><thead><tr><th data-type="select">Choose a Game</th><th></th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
