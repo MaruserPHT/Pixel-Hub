@@ -15,11 +15,3 @@ Please visit [https://pixelhub.finance/](https://pixelhub.finance/) and enjoy ou
 Please fill out our [`Feedback Form`](https://forms.gle/MF22wcG7Sf9yv5nZ6)``
 
 </details>
-
-<details>
-
-<summary>FAQ #3</summary>
-
-
-
-</details>

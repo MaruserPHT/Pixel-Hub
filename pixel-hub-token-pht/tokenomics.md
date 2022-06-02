@@ -89,6 +89,9 @@ Payouts from in-game rewards are distributed once per week and are paid in BNB o
 
 ### Tournaments
 
-100% of PHT entry fees for tournaments will get sent to the burn address
+25% of PHT entry fees for tournaments will get sent to the burn address.  The top 3 positions in the tournament will receiving the following percentages of the total remaining pot.
 
-More info coming soon...
+* 1st Place - 45%
+* 2nd Place - 21%
+* 3rd Place - 9%
+* Burned - 25%
