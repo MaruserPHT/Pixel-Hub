@@ -65,7 +65,7 @@ Tap the screen or click the mouse/space bar to stay in the air and avoid the wal
 
 Tap the screen or click the mouse/space bar to jump and avoid the laser beam that comes from all directions and speeds up
 
-> ### _<mark style="color:red;">**Update: 3 New Games!!!**</mark>** ****** <mark style="color:red;">5/26/2022</mark>_
+> #### _<mark style="color:red;">**Update: 3 New Games**</mark>** ****** <mark style="color:red;">5/26/2022</mark>_
 
 ### Block Stacker
 
@@ -78,6 +78,8 @@ Left mouse click or screen tap to time your shots and hit the target.  Be carefu
 ### Bouncy Wall
 
 Challenge your brain and reflexes in this super fun game.  Screen tap or left mouse click as many times as necessary to make the block jump to the required height.  The object is to hit the part of the wall that is the same color as the block.  Good luck!
+
+#### _<mark style="color:red;">**Update: 1 New Game**</mark>** ****** <mark style="color:red;">5/30/2022</mark>_
 
 ### Circle Pong
 
