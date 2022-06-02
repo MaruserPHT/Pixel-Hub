@@ -6,7 +6,7 @@ coverY: 0
 
 # Home
 
-[Pixel Hub](https://pixelhub.finance/) is a Play to Earn arcade style gaming platform built on the BSC network for desktop and mobile devices.  It currently consists of 15 different working games you can play with more games coming soon. &#x20;
+[Pixel Hub](https://pixelhub.finance/) is a Play to Earn arcade style gaming platform built on the BSC network for desktop and mobile devices.  It currently consists of 20 different working games you can play with more games coming soon. &#x20;
 
 ![](.gitbook/assets/game\_splash.jpg)
 
