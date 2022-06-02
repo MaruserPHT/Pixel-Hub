@@ -14,8 +14,12 @@ coverY: 0
 
 ### Follow Us
 
+Website: [http://pixelhub.finance/](http://pixelhub.finance/)
+
 Telegram Community:  [https://t.me/pixelhubcommunity](https://t.me/pixelhubcommunity)
 
 Telegram Sale: [https://t.me/phtprivatesale](https://t.me/phtprivatesale)
 
-Discord:    coming soon
+Discord: [https://discord.gg/yqT6bC26Wp](https://discord.gg/yqT6bC26Wp)
+
+Twitter: [https://twitter.com/PixelHubToken](https://twitter.com/PixelHubToken)  &#x20;
