@@ -22,7 +22,7 @@ description: PHT Token Economics
 
 
 
-![](<../.gitbook/assets/pht\_token\_distribution (1).png>)
+![](<../.gitbook/assets/pht\_token\_token_distribution.png>)
 
 ### <mark style="color:purple;">Fees and Rewards</mark>
 
