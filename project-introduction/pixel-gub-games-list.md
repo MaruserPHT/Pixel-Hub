@@ -27,7 +27,7 @@ Swipe up to rotate the pieces, swipe left and right to move them, swipe down to 
 
 ### Snake
 
-The "original" mobile game on Nokia phones that started a new era in mobile gaming.  Swipe or use the arrow keys to move your snake to eat the food, growing your snake every time you eat, but don't run into yourself!
+The "original" mobile game on Nokia phones that started a new era in mobile gaming. Swipe or use the arrow keys to move your snake to eat the food, growing your snake every time you eat, but don't run into yourself!
 
 ### Hot Swap
 
@@ -39,7 +39,7 @@ Swipe or use the arrow keys to jump the gaps and avoid the obstacles on the road
 
 ### Space Defender
 
-Many of you will remember this one.  Swipe left or right or use your arrow keys to shoot all the aliens before they reach the bottom
+Many of you will remember this one. Swipe left or right or use your arrow keys to shoot all the aliens before they reach the bottom
 
 ### Careful Flight
 
@@ -55,7 +55,7 @@ Swipe or use the arrow keys to bounce on the platforms and try not to land in th
 
 ### Haunted Maze
 
-I think we all know how to play this one!  Swipe or use the arrow keys to avoid the ghosts and eat all the dots.  Eat a power pellet then eat the ghosts for extra points.
+I think we all know how to play this one! Swipe or use the arrow keys to avoid the ghosts and eat all the dots. Eat a power pellet then eat the ghosts for extra points.
 
 ### Flappy Wing
 
@@ -65,19 +65,19 @@ Tap the screen or click the mouse/space bar to stay in the air and avoid the wal
 
 Tap the screen or click the mouse/space bar to jump and avoid the laser beam that comes from all directions and speeds up
 
-> ### _<mark style="color:red;">**Update: 3 New Games!!!**</mark>** ****** <mark style="color:red;">5/26/2022</mark>_
+> #### _<mark style="color:red;">**Update: 3 New Games!!!**</mark>\*\* \*\*\*\*\*\* <mark style="color:red;">5/26/2022</mark>_
 
 ### Block Stacker
 
-Time your taps perfectly with a screen tap or left mouse click to drop the blocks on the platform without them falling off.  How high can you stack them?
+Time your taps perfectly with a screen tap or left mouse click to drop the blocks on the platform without them falling off. How high can you stack them?
 
 ### Arrow Tap
 
-Left mouse click or screen tap to time your shots and hit the target.  Be careful though, it speeds up every time you hit it!
+Left mouse click or screen tap to time your shots and hit the target. Be careful though, it speeds up every time you hit it!
 
 ### Bouncy Wall
 
-Challenge your brain and reflexes in this super fun game.  Screen tap or left mouse click as many times as necessary to make the block jump to the required height.  The object is to hit the part of the wall that is the same color as the block.  Good luck!
+Challenge your brain and reflexes in this super fun game. Screen tap or left mouse click as many times as necessary to make the block jump to the required height. The object is to hit the part of the wall that is the same color as the block. Good luck!
 
 ### Circle Pong
 
