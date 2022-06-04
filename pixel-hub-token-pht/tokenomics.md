@@ -20,7 +20,7 @@ description: PHT Token Economics
 * **Pre-Sale -** July 15th, 2022 - August 15th, 2022
 * **Public Sale -** August 15th, 2022 - September 15th, 2022
 
-![](<../.gitbook/assets/Token Distribution.png>)
+![](<../.gitbook/assets/token\_distribution.png>)
 
 ### <mark style="color:purple;">Fees and Rewards</mark>
 
