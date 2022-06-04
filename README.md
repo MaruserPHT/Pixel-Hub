@@ -1,6 +1,6 @@
 ---
 description: Arcade Games | Play to Earn | Mobile | Desktop
-cover: .gitbook/assets/paper_header.jpg
+cover: pixelhub_header.jpg
 coverY: 0
 ---
 
