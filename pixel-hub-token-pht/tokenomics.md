@@ -6,7 +6,7 @@ description: PHT Token Economics
 
 #### All payouts from in-game rewards are paid out in BNB from the rewards wallet, reflections are paid out in the native PHT tokens.
 
-#### **Pixel Hub Contract Address**<mark style="background-color:yellow;">**:**</mark> [<mark style="background-color:yellow;">**0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3**</mark>](https://bscscan.com/address/0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3)<mark style="background-color:yellow;">\*\*\*\*</mark>
+#### **Pixel Hub Contract Address:** [0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3](https://bscscan.com/address/0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3)
 
 #### Total Supply: 1,000,000,000 PHT
 
@@ -22,14 +22,14 @@ description: PHT Token Economics
 
 ![](../.gitbook/assets/token\_distribution.png)
 
-### <mark style="color:purple;">Fees and Rewardsm</mark>
+### <mark style="color:purple;">Fees and Rewards</mark>
 
-| Buy Fees (9% total)          | Sell Fees (9% total)                                                                                                              |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| In-Game Rewards: 3%          | In-Game Rewards: 3%                                                                                                               |
-| Reflections: 3%              | Reflections: 3%                                                                                                                   |
-| Dev Fund: 2%                 | Dev Fund: 2%                                                                                                                      |
-| Pixel Hub Liquidity Pool: 1% | <mark style="background-color:yellow;">Pixel Hub</mark> <mark style="background-color:yellow;">\*\*\*\*</mark> Liquidity Pool: 1% |
+| Buy Fees (9% total)          | Sell Fees (9% total)         |
+| ---------------------------- | ---------------------------- |
+| In-Game Rewards: 3%          | In-Game Rewards: 3%          |
+| Reflections: 3%              | Reflections: 3%              |
+| Dev Fund: 2%                 | Dev Fund: 2%                 |
+| Pixel Hub Liquidity Pool: 1% | Pixel Hub Liquidity Pool: 1% |
 
 #### \*\*\*\*
 
@@ -41,27 +41,27 @@ description: PHT Token Economics
 
 **Total Received:** - / $375k
 
-**Distribution:** <mark style="background-color:yellow;">Tokens will be distributed after the Private sale has completed</mark>
+**Distribution:** Tokens will be distributed after the Private sale has completed
 {% endtab %}
 
 {% tab title="Pre-Sale" %}
-<mark style="background-color:yellow;">**Tokens for sale:**</mark> <mark style="background-color:yellow;">100M</mark>
+**Tokens for sale:** 100M
 
-<mark style="background-color:yellow;">**Token Price:**</mark> <mark style="background-color:yellow;">$0.003</mark>
+**Token Price:** $0.003
 
-<mark style="background-color:yellow;">**Total Received:**</mark> <mark style="background-color:yellow;">- / $300K</mark>
+**Total Received:** - / $300K
 
-<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;">Tokens will be distributed after all phases are completed</mark>
+**Distribution:** Tokens will be distributed after all phases are completed
 {% endtab %}
 
 {% tab title="Public Sale" %}
-<mark style="background-color:yellow;">**Tokens for sale:**</mark> <mark style="background-color:yellow;">200M</mark>
+**Tokens for sale:** 200M
 
-<mark style="background-color:yellow;">**Token Price:**</mark> <mark style="background-color:yellow;">$0.07</mark>
+**Token Price:** $0.07
 
-<mark style="background-color:yellow;">**Total Received:**</mark> <mark style="background-color:yellow;">- / $1.325M</mark>
+**Total Received:** - / $1.325M
 
-<mark style="background-color:yellow;">**Distribution:**</mark> <mark style="background-color:yellow;">Tokens will be distributed after all phases are completed</mark>
+**Distribution:** Tokens will be distributed after all phases are completed
 {% endtab %}
 
 {% tab title="Liquidity" %}
