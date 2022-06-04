@@ -31,7 +31,7 @@ description: PHT Token Economics
 | Dev Fund: 2%                 | Dev Fund: 2%                                                                                                                      |
 | Pixel Hub Liquidity Pool: 1% | Pixel Hub Liquidity Pool: 1% |
 
-#### \*\*\*\*
+####
 
 {% tabs %}
 {% tab title="Private Sale" %}
