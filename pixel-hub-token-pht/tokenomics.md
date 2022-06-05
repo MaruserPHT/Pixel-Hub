@@ -37,7 +37,7 @@ description: PHT Token Economics
 {% tab title="Private Sale" %}
 **Tokens for sale:** 250M
 
-**Token Price:** 0.0015
+**Token Price:** Contact an Admin
 
 **Total Received:** - / $375k
 
