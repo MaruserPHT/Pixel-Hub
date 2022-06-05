@@ -39,7 +39,7 @@ description: PHT Token Economics
 
 **Token Price:** Contact an Admin
 
-**Total Received:** - / $375k
+**Total Received:** - / ?
 
 **Distribution:** Tokens will be distributed after the Private sale has completed
 {% endtab %}
@@ -47,9 +47,9 @@ description: PHT Token Economics
 {% tab title="Pre-Sale" %}
 **Tokens for sale:** 100M
 
-**Token Price:** $0.003
+**Token Price:** $0.007
 
-**Total Received:** - / $300K
+**Total Received:** - / $700K
 
 **Distribution:** Tokens will be distributed after all phases are completed
 {% endtab %}
@@ -71,7 +71,7 @@ description: PHT Token Economics
 
 **Total Soft Cap:** $300K
 
-**Total Hard Cap:** $2M
+**Total Hard Cap:** $2.4M
 
 ![](../.gitbook/assets/pht\_funds\_distribution.png)
 
