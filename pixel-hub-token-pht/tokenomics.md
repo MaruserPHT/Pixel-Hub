@@ -41,7 +41,7 @@ description: PHT Token Economics
 
 **Total Received:** - / ?
 
-**Distribution:** Tokens will be distributed after the Private sale has completed
+**Distribution:** 50% of tokens will be distributed after the Private sale has completed the remaining tokens will be distributed on vesting schedule
 {% endtab %}
 
 {% tab title="Pre-Sale" %}
@@ -51,17 +51,17 @@ description: PHT Token Economics
 
 **Total Received:** - / $700K
 
-**Distribution:** Tokens will be distributed after all phases are completed
+**Distribution:** Tokens will be distributed after pre sale is completed
 {% endtab %}
 
 {% tab title="Public Sale" %}
 **Tokens for sale:** 200M
 
-**Token Price:** $0.07
+**Token Price:** TBD
 
 **Total Received:** - / $1.325M
 
-**Distribution:** Tokens will be distributed after all phases are completed
+**Distribution:** Tokens will be distributed after sale is completed
 {% endtab %}
 
 {% tab title="Liquidity" %}
