@@ -20,15 +20,15 @@ description: PHT Token Economics
 * **Pre-Sale -** July 15th, 2022 - August 15th, 2022
 * **Public Sale -** August 15th, 2022 - September 15th, 2022
 
-![](../.gitbook/assets/token\_distribution.png)
+![](<../.gitbook/assets/token\_distribution (1).png>)
 
 ### <mark style="color:purple;">Fees and Rewards</mark>
 
-| Buy Fees (9% total)          | Sell Fees (9% total)                                                                                                              |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| In-Game Rewards: 3%          | In-Game Rewards: 3%                                                                                                               |
-| Reflections: 3%              | Reflections: 3%                                                                                                                   |
-| Dev Fund: 2%                 | Dev Fund: 2%                                                                                                                      |
+| Buy Fees (9% total)          | Sell Fees (9% total)         |
+| ---------------------------- | ---------------------------- |
+| In-Game Rewards: 3%          | In-Game Rewards: 3%          |
+| Reflections: 3%              | Reflections: 3%              |
+| Dev Fund: 2%                 | Dev Fund: 2%                 |
 | Pixel Hub Liquidity Pool: 1% | Pixel Hub Liquidity Pool: 1% |
 
 ####
@@ -37,11 +37,11 @@ description: PHT Token Economics
 {% tab title="Private Sale" %}
 **Tokens for sale:** 250M
 
-**Token Price:** Contact an Admin
+**Token Price:** 0.0015$
 
 **Total Received:** - / ?
 
-**Distribution:** 50% of tokens will be distributed after the Private sale has completed the remaining tokens will be distributed on a vesting schedule of 12.5% weekly 
+**Distribution:** 50% of tokens will be distributed after the Private sale has completed the remaining tokens will be distributed on a vesting schedule of 12.5% weekly
 {% endtab %}
 
 {% tab title="Pre-Sale" %}
@@ -51,7 +51,7 @@ description: PHT Token Economics
 
 **Total Received:** - / $700K
 
-**Distribution:** 50% of tokens will be distributed after the Pre sale has completed the remaining tokens will be distributed on a vesting schedule of 12.5% weekly 
+**Distribution:** 50% of tokens will be distributed after the Pre sale has completed the remaining tokens will be distributed on a vesting schedule of 12.5% weekly
 {% endtab %}
 
 {% tab title="Public Sale" %}
