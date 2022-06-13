@@ -24,14 +24,16 @@ description: PHT Token Economics
 
 ### <mark style="color:purple;">Fees and Rewards</mark>
 
-| Buy Fees (9% total)          | Sell Fees (9% total)         |
-| ---------------------------- | ---------------------------- |
-| In-Game Rewards: 3%          | In-Game Rewards: 3%          |
-| Reflections: 3%              | Reflections: 3%              |
-| Dev Fund: 2%                 | Dev Fund: 2%                 |
-| Pixel Hub Liquidity Pool: 1% | Pixel Hub Liquidity Pool: 1% |
+<mark style="color:blue;">**Fees and taxes can be adjusted to accommodate current market conditions and project sustainability.**</mark>
 
-####
+| Buy Fees (9% total)                               | Sell Fees (9% total)                              |
+| ------------------------------------------------- | ------------------------------------------------- |
+| In-Game Rewards: 3%                               | In-Game Rewards: 3%                               |
+| Reflections: 3%                                   | Reflections: 3%                                   |
+| Dev Fund<mark style="color:yellow;">\*</mark>: 2% | Dev Fund<mark style="color:yellow;">\*</mark>: 2% |
+| Liquidity Pool: 1%                                | Liquidity Pool: 1%                                |
+
+<mark style="color:yellow;">\*Dev Fund is used for all kinds of things regarding Pixel Hub growth, including:</mark>\ <mark style="color:yellow;">Marketing, Development, Listings and more.</mark>
 
 {% tabs %}
 {% tab title="Private Sale" %}
@@ -49,7 +51,7 @@ description: PHT Token Economics
 
 **Token Price:** 0.007$
 
-**Total Received:** - / $700K
+**Total Received:** - / $1.12M
 
 **Distribution:** 50% of tokens will be distributed after the launch, the remaining tokens will be distributed on a vesting schedule of 12.5% weekly.
 {% endtab %}
