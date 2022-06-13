@@ -47,7 +47,7 @@ description: PHT Token Economics
 {% tab title="Pre-Sale" %}
 **Tokens for sale:** 160M
 
-**Token Price:** 0.004375$
+**Token Price:** 0.007$
 
 **Total Received:** - / $700K
 
@@ -71,7 +71,7 @@ description: PHT Token Economics
 
 **Total Soft Cap:** $300K
 
-**Total Hard Cap:** TBD
+**Total Hard Cap:** $2.4M
 
 ![](../.gitbook/assets/pht\_funds\_distribution.png)
 
