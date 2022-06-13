@@ -45,17 +45,17 @@ description: PHT Token Economics
 {% endtab %}
 
 {% tab title="Pre-Sale" %}
-**Tokens for sale:** 100M
+**Tokens for sale:** 160M
 
-**Token Price:** TBD
+**Token Price:** 0.004375$
 
-**Total Received:** - / TBD
+**Total Received:** - / 700K
 
 **Distribution:** 50% of tokens will be distributed after the launch, the remaining tokens will be distributed on a vesting schedule of 12.5% weekly.
 {% endtab %}
 
 {% tab title="Public Sale" %}
-**Tokens for sale:** 200M
+**Tokens for sale:** 140M
 
 **Token Price:** TBD
 
