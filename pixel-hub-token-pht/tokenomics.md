@@ -39,7 +39,7 @@ description: PHT Token Economics
 
 **Token Price:** 0.0015$
 
-**Total Received:** - / ?
+**Total Received:** - / $375K
 
 **Distribution:** 50% of tokens will be distributed after the Private sale has completed the remaining tokens will be distributed on a vesting schedule of 12.5% weekly
 {% endtab %}
@@ -83,7 +83,7 @@ Payouts from in-game rewards are distributed once per week and are paid in BNB o
 
 ### Tournaments
 
-25% of PHT entry fees for tournaments will get sent to the burn address. The top 3 positions in the tournament will receiving the following percentages of the total remaining pot.
+25% of PHT entry fees for tournaments will get sent to the burn address. The top 3 positions in the tournament will receiving the following percentages of the total remaining pot in PHT tokens.
 
 * 1st Place - 45%
 * 2nd Place - 20%
