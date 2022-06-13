@@ -41,17 +41,17 @@ description: PHT Token Economics
 
 **Total Received:** - / $375K
 
-**Distribution:** 50% of tokens will be distributed after the Private sale has completed the remaining tokens will be distributed on a vesting schedule of 12.5% weekly
+**Distribution:** 50% of tokens will be distributed after the launch, the remaining tokens will be distributed on a vesting schedule of 12.5% weekly.
 {% endtab %}
 
 {% tab title="Pre-Sale" %}
 **Tokens for sale:** 100M
 
-**Token Price:** $0.007
+**Token Price:** TBD
 
-**Total Received:** - / $700K
+**Total Received:** - / TBD
 
-**Distribution:** 50% of tokens will be distributed after the Pre sale has completed the remaining tokens will be distributed on a vesting schedule of 12.5% weekly
+**Distribution:** 50% of tokens will be distributed after the launch, the remaining tokens will be distributed on a vesting schedule of 12.5% weekly.
 {% endtab %}
 
 {% tab title="Public Sale" %}
@@ -59,9 +59,9 @@ description: PHT Token Economics
 
 **Token Price:** TBD
 
-**Total Received:** - / $1.325M
+**Total Received:** - / TBD
 
-**Distribution:** Tokens will be distributed after sale is completed
+**Distribution:** 100% of tokens will be distributed after the launch.
 {% endtab %}
 
 {% tab title="Liquidity" %}
@@ -71,7 +71,7 @@ description: PHT Token Economics
 
 **Total Soft Cap:** $300K
 
-**Total Hard Cap:** $2.4M
+**Total Hard Cap:** TBD
 
 ![](../.gitbook/assets/pht\_funds\_distribution.png)
 
