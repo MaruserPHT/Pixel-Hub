@@ -49,7 +49,7 @@ description: PHT Token Economics
 
 **Token Price:** 0.004375$
 
-**Total Received:** - / 700K
+**Total Received:** - / $700K
 
 **Distribution:** 50% of tokens will be distributed after the launch, the remaining tokens will be distributed on a vesting schedule of 12.5% weekly.
 {% endtab %}
