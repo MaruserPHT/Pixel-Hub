@@ -4,7 +4,7 @@ description: PHT Token Economics
 
 # Tokenomics
 
-#### All payouts from in-game rewards are paid out in BNB from the rewards wallet, reflections are paid out in the native PHT tokens.
+#### All payouts from in-game rewards are paid out in BNB from the rewards wallet, same as the reflections.
 
 #### **Pixel Hub Contract Address**: [**0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3**](https://bscscan.com/address/0xd614f83a34ab61c79ad2f9f762dec3e0ac7a1ba3)
 
