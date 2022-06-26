@@ -33,7 +33,7 @@ description: PHT Token Economics
 | Dev Fund<mark style="color:yellow;">\*</mark>: 2% | Dev Fund<mark style="color:yellow;">\*</mark>: 2% |
 | Liquidity Pool: 1%                                | Liquidity Pool: 1%                                |
 
-<mark style="color:yellow;">\*Dev Fund is used for all kinds of things regarding Pixel Hub growth, including:</mark>\ <mark style="color:yellow;">Marketing, Development, Listings and more.</mark>
+<mark style="color:yellow;">\*Dev Fund is mainly used (but not limited to) for Pixel Hub growth, including:</mark> <mark style="color:yellow;">Marketing, Development, Listings and more.</mark>
 
 {% tabs %}
 {% tab title="Private Sale" %}
@@ -83,11 +83,13 @@ Payouts from in-game rewards are distributed once per week and are paid in BNB o
 
 ***
 
-### Tournaments
+### Tournaments (in the Future)
 
-25% of PHT entry fees for tournaments will get sent to the burn address. The top 3 positions in the tournament will receiving the following percentages of the total remaining pot in PHT tokens.
+#### <mark style="color:red;">**Currently Tournaments are free to participate to gain more attention**</mark>
 
-* 1st Place - 45%
-* 2nd Place - 20%
-* 3rd Place - 10%
-* Burned - 25%
+~~25% of PHT entry fees for tournaments will get sent to the burn address. The top 3 positions in the tournament will receiving the following percentages of the total remaining pot in PHT tokens.~~
+
+* ~~1st Place - 45%~~
+* ~~2nd Place - 20%~~
+* ~~3rd Place - 10%~~
+* ~~Burned - 25%~~
